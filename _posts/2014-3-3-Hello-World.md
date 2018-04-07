@@ -3,8 +3,6 @@ layout: post
 title: First Post!
 ---
 
-* This 
-* is 
-* my
-* first
-* post
+My Facebook network:
+
+blah
